@@ -1,16 +1,27 @@
-# flutter_covid_19_tracker
+# 📊 COVID-19 Tracker
 
-A new Flutter project.
+Get real-time global and country-specific COVID-19 stats in a clean, user-friendly interface.
 
-## Getting Started
+![App Preview](https://github.com/Muhammad-Umair-Gujjar/Covid-19_Tracker-app/blob/master/intro%20covid19.jpg)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🌍 Live data for total, recovered, deaths, and active cases  
+- 📈 Animated pie chart visualization  
+- 📋 Searchable country-wise stats with flags  
+- ⏳ Smooth loading with animation  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## ⚙ Powered by:
+
+- [disease.sh API](https://disease.sh)
+- [`http`](https://pub.dev/packages/http)  
+- [`flutter_spinkit`](https://pub.dev/packages/flutter_spinkit)  
+- [`pie_chart`](https://pub.dev/packages/pie_chart)
+
+---
+
+> Developed by Muhammad Umair — [GitHub](https://github.com/Muhammad-Umair-Gujjar)
